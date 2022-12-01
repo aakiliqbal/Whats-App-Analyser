@@ -2,11 +2,12 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Note](#note)
 * [Images](#images)
 * [Links](#links)
 
 ## General info
-This is an WhatsApp chat analyzer app, that analyses any group or a personal chat. It shows a statical information about the chat.
+This is a WhatsApp chat analyzer app, that analyses any group or a personal chat. It shows a statical information in form of different graphs.
 	
 ## Technologies
 Project is created with:
@@ -20,6 +21,10 @@ To run this project locally, install it using pip:
 ```
 pip install -r requirements.txt
 ```
+After running, export any chat without including media from whatsapp and upload it.
+
+## Note
+This app does not work with Iphone, Gb WhatsApp or any third party whatsapp app.
 ## Images
 
 ![](https://raw.githubusercontent.com/aakiliqbal/WhatsApp-Chat-Analyser/main/Images/Screenshot%201.png)
