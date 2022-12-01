@@ -22,8 +22,10 @@ pip install -r requirements.txt
 ```
 ## Images
 
-![](/Images/Screenshot 1.png)  |  ![](/Images/Screenshot 2.png)
-![](/Images/Screenshot 3.png)  |  ![](/Images/Screenshot 4.png)
+![](/Images/Screenshot 1.png)
+![](/Images/Screenshot 2.png)
+![](/Images/Screenshot 3.png)
+![](/Images/Screenshot 4.png)
 
 
 ## Links
