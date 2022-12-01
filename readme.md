@@ -22,10 +22,10 @@ pip install -r requirements.txt
 ```
 ## Images
 
-![](/Images/Screenshot 1.png)
-![](/Images/Screenshot 2.png)
-![](/Images/Screenshot 3.png)
-![](/Images/Screenshot 4.png)
+![](https://raw.githubusercontent.com/aakiliqbal/WhatsApp-Chat-Analyser/main/Images/Screenshot%201.png)
+![](https://raw.githubusercontent.com/aakiliqbal/WhatsApp-Chat-Analyser/main/Images/Screenshot%202.png)
+![](https://raw.githubusercontent.com/aakiliqbal/WhatsApp-Chat-Analyser/main/Images/Screenshot%203.png)
+![](https://raw.githubusercontent.com/aakiliqbal/WhatsApp-Chat-Analyser/main/Images/Screenshot%204.png)
 
 
 ## Links
